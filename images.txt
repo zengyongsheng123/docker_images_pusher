@@ -1,2 +1,1 @@
 nginx:1.10.0-alpine
-java:openjdk-7u95-jdk-alpine
