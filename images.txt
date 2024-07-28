@@ -1,2 +1,4 @@
-nginx:1.10.0-alpine
-nginx:1.8-alpine
+minio:RELEASE.2023-03-20T20-16-18Z
+etcd:v3.5.5
+milvus:v2.4.5
+attu:v2.3.9
